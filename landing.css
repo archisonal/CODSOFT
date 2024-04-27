@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+body{
+    background-image: url("uni2.jpg");
+    background-position: center;
+    background-attachment: local;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+h1{
+    color: rgba(59, 125, 239, 0.913);
+    margin: 70px;
+    text-decoration: underline;
+} 
+
+.form1{
+    width: 100vw;
+    height: 53vh;
+    margin-top: 30px;
+    color: rgb(119, 170, 246);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(68, 86, 132, 0.233);
+    border-radius: 10px;
+}
+
+button{
+    height: 20px;
+    width: 60px;
+    border: 1px solid black;
+    margin-top: 15px;
+    color: gray;
+    background-color: white;
+}
