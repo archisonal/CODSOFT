@@ -15,7 +15,7 @@ body{
 }
 
 h1{
-    color: rgba(195, 65, 102, 0.644);
+    color: rgba(253, 252, 252, 0.644);
     margin: 70px;
     text-decoration: underline;
 } 
@@ -24,7 +24,7 @@ h1{
     width: 100vw;
     height: 53vh;
     margin-top: 30px;
-    color: rgba(195, 65, 102, 0.644);
+    color: rgba(253, 252, 252, 0.644);
     display: flex;
     justify-content: center;
     align-items: center;
